@@ -1,7 +1,7 @@
 /* CONFIGURATION STARTS HERE */
 
 /* Step 1: enter your domain name like fruitionsite.com */
-const MY_DOMAIN = "fruitionsite.com";
+const MY_DOMAIN = "milifix.org";
 
 /*
  * Step 2: enter your URL slug to page ID mapping
@@ -9,14 +9,14 @@ const MY_DOMAIN = "fruitionsite.com";
  * The value on the right is the Notion page ID
  */
 const SLUG_TO_PAGE = {
-  "": "771ef38657244c27b9389734a9cbff44",
+  "": "c7180b392fb14a2b9bb803259a4a8acc",
   thanks: "9d9864f5338b47b0a7f42e0f0e2bbf46",
   showcase: "92053970e5084019ac096d2df7e7f440",
   roadmap: "7d4b21bfb4534364972e8bf9f68c2c36"
 };
 
 /* Step 3: enter your page title and description for SEO purposes */
-const PAGE_TITLE = "Fruition";
+const PAGE_TITLE = "ZY page";
 const PAGE_DESCRIPTION =
   "Free, Open Source Toolkit For Customizing Your Notion Page";
 
